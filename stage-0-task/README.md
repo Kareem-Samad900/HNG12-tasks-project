@@ -32,7 +32,7 @@
 
 ## API DOCUMENTATION
 
-### - Endpoint URL [`http://localhost:5001/`](http://localhost:5001/)
+### - Endpoint URL [`https://hng-12-task-0-project.vercel.app/`](https://hng-12-task-0-project.vercel.app/)
 
 ### - Send a GET request to the url above, the response is a JSON data with the email details, current time in ISO 8601 UTC format, and the gihub url of the project repository.
 
