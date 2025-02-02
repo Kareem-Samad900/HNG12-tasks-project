@@ -20,7 +20,7 @@ app.get("/", (req, res) => {
     res.status(200).json({
       email: "ksbamidele880@gmail.com",
       current_datetime: DateTimeOutput,
-      github_url: "https://github.com/Kareem-Samad900/HNG12-internship-tasks",
+      github_url: "https://github.com/Kareem-Samad900/HNG12-tasks-project",
     });
   } catch (error) {
     console.error(error.message);

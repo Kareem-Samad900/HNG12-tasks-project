@@ -6,18 +6,18 @@
 
 ### The api return a json data that looks like this;
 
-`{"email": "ksbamidele880@gmail.com", "current_dateTime": "2025-01-30T11:32:16Z", "github_url": "https://github.com/Kareem-Samad900/HNG12-internship-tasks" }`
+`{"email": "ksbamidele880@gmail.com", "current_dateTime": "2025-01-30T11:32:16Z", "github_url": "https://github.com/Kareem-Samad900/HNG12-tasks-project" }`
 
 ## Setup Instructions
 
-### Packages used includes the following;
+### Packages and Libraries used for the project includes the following;
 
 - Nodejs
 - Express.js
 - Dayjs
 - Cors
 
-### Instructions
+### Instructions for set-up
 
 - Start a nodejs project using `npm init -y`
 - Navigate to the project directory and create the root file _index.js_
